@@ -1,8 +1,8 @@
 class Ecodex < Formula
   desc "Empirica's epistemic agent environment — a fork of openai/codex with measured discipline"
   homepage "https://github.com/Nubaeon/ecodex"
-  url "https://github.com/Nubaeon/ecodex/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "8c2de30ecbde9ff0554cc507701ff13cd00c0cb7a590e7452d8bd42e3210f4b0"
+  url "https://github.com/Nubaeon/ecodex/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "59bfa117cb382a5bb56e9d95c3ceeb91f18d9ac90fa39f93546e7334e67dbdab"
   license "Apache-2.0"
   head "https://github.com/Nubaeon/ecodex.git", branch: "build/v1-plugin"
 
