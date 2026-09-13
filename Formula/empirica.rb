@@ -13,8 +13,8 @@ class Empirica < Formula
 
   desc "Epistemic self-assessment framework for AI agents"
   homepage "https://github.com/EmpiricaAI/empirica"
-  url "https://files.pythonhosted.org/packages/source/e/empirica/empirica-1.13.45.tar.gz"
-  sha256 "57d7d9942d3ca7c5dc8bec23e0512adcf5ae72bae24dc359238edd51533e2026"
+  url "https://files.pythonhosted.org/packages/source/e/empirica/empirica-1.13.46.tar.gz"
+  sha256 "bd726f1a35e92bbc900d647fe3a5fb2f58298f1032d58b5bc27edcb883821438"
   license "MIT"
 
   depends_on "python@3.11"
