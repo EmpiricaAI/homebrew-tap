@@ -1,0 +1,3 @@
+# empirica practice state is per-machine, never tracked
+.empirica/
+.empirica_reflex_logs/
